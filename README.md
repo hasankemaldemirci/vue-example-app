@@ -1,6 +1,6 @@
-# Vue.js Movie List
+# Vue.js Example App
 
-> A Vue.js project
+> A async movie data list using Vue.js
 
 ## Build Setup
 
